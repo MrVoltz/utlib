@@ -1,0 +1,25 @@
+{
+  "name": "ut-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cheerio": "^1.0.0-rc.9",
+    "express": "^4.17.1",
+    "got": "^11.8.2",
+    "iconv-lite": "^0.6.3",
+    "jpeg-js": "^0.4.3",
+    "node-tflite": "0.0.2",
+    "open": "^8.2.0",
+    "sixel": "^0.14.0",
+    "terminal-image": "^2.0.0",
+    "tough-cookie": "^4.0.0",
+    "underscore": "^1.13.1"
+  }
+}
